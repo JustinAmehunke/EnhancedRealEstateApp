@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16566f93-27be-494c-bb02-deef233a3f43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../product_fz/product/.idea/product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_fz/product/android/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_fz/product/android/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_fz/product/android/product_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_fz/product/product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlutKit/lib/screens/food/FoodOnboardingScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../FlutKit/lib/screens/food/FoodOnboardingScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/.dart_tool/flutter_build/e14bffbd5b58eccae79376c357296c36/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/.dart_tool/flutter_build/e14bffbd5b58eccae79376c357296c36/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/.dart_tool/flutter_build/e14bffbd5b58eccae79376c357296c36/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/.dart_tool/flutter_build/e14bffbd5b58eccae79376c357296c36/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/assets/images/house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/assets/images/house.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/assets/images/house1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/assets/images/house1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/assets/images/house2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/assets/images/house2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/assets/images/house3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/assets/images/john.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/assets/images/john.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/house3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/john.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/assets/images/john.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/house3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/john.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/john.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/lib/components/social_media_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/lib/components/social_media_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/lib/screens/filters.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/lib/screens/filters.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/lib/screens/sign_in.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/lib/screens/sign_in.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../onproperty/lib/screens/sign_up.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../onproperty/lib/screens/sign_up.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/house.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/house1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/house1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/house2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/house2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/john.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/john.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/person1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/person1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/person2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/person3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/location_horiziontal.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/location_horiziontal.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/map_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/map_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/map_locations.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/map_locations.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/notifications.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/notifications.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/saved.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/saved.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/saved_homes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/saved_homes.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z46Qbcfpw1JaariMqUqofGTbld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="flutter.view.tool.window.visible" value="true" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hercules_estate" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FTC\AndroidStudioProjects\untitled\lib\junks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FTC\AndroidStudioProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16566f93-27be-494c-bb02-deef233a3f43" name="Default Changelist" comment="" />
+      <created>1633395011008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633395011008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="104" width="692" height="480" key="AVDManager" timestamp="1634507738028">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="170" y="104" width="692" height="480" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1634507738028" />
+    <state x="273" y="87" key="AndroidProcessChooserDialog" timestamp="1633823908843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="273" y="87" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1633823908843" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1634506509888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1634506509888" />
+    <state width="855" height="137" key="GridCell.Tab.0.bottom" timestamp="1634509248339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="855" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1634509248339" />
+    <state width="855" height="137" key="GridCell.Tab.0.center" timestamp="1634509248338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="855" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1634509248338" />
+    <state width="855" height="137" key="GridCell.Tab.0.left" timestamp="1634509248336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="855" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1634509248336" />
+    <state width="855" height="137" key="GridCell.Tab.0.right" timestamp="1634509248338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="855" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1634509248338" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1634248985929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1634248985929" />
+    <state x="302" y="24" key="new project wizard" timestamp="1633790708795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="24" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1633790708795" />
+  </component>
+</project>
